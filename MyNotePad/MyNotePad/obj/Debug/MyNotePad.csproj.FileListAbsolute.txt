@@ -1,0 +1,11 @@
+D:\reposit\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe.config
+D:\reposit\MyNotePad\MyNotePad\bin\Debug\MyNotePad.exe
+D:\reposit\MyNotePad\MyNotePad\bin\Debug\MyNotePad.pdb
+D:\reposit\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.AssemblyReference.cache
+D:\reposit\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.SuggestedBindingRedirects.cache
+D:\reposit\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Form1.resources
+D:\reposit\MyNotePad\MyNotePad\obj\Debug\MyNotePad.Properties.Resources.resources
+D:\reposit\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.GenerateResource.cache
+D:\reposit\MyNotePad\MyNotePad\obj\Debug\MyNotePad.csproj.CoreCompileInputs.cache
+D:\reposit\MyNotePad\MyNotePad\obj\Debug\MyNotePad.exe
+D:\reposit\MyNotePad\MyNotePad\obj\Debug\MyNotePad.pdb
